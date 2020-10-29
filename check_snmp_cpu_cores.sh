@@ -1,7 +1,7 @@
 #!/bin/sh
 #
-# Icinga Plugin Script (Check Command). Ccalculates the average percentage of CPU load over multiple cores from SNMPWALK
-# Shchukin Maxim <dev@monologic.ru>
+# Icinga Plugin Script (Check Command). Calculates the average percentage of CPU load over multiple cores from SNMPWALK
+# Max.Fischer <dev@monologic.ru>
 # Tested on CentOS GNU/Linux 6.5 with Icinga r2.6.3-1
 # Put here: /usr/lib/nagios/plugins/check_snmp_cpu_cores.sh
 # Usage example:
